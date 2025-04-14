@@ -1,6 +1,6 @@
 
 
-const OPENROUTER_API_KEY = "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";
+const OPENROUTER_API_KEY = "your api key here";
 const SITE_URL = window.location.origin;
 const SITE_NAME = "ChatSpot";
 
